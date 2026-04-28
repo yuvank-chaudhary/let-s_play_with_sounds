@@ -107,3 +107,23 @@ for (var i = 0; i < totalNumberOfButton; i++) {
 //     audio.play();
 // })
 
+
+
+
+
+
+
+
+// function Ballboy(name,age,lanuage){
+//     this.name = name;
+//     this.age = age;
+//     this.lanuage = lanuage;
+
+//     this.move_it = function(){
+//         alert("hey,costumer");
+//         pickItUp();
+//         move();
+//     }
+// }
+
+// var ballboy1 = new Ballboy("yuvank","20",["english","hindi"]);
